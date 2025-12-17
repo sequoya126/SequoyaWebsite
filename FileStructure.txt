@@ -1,0 +1,4 @@
+dashboard/
+├── index.html      # Main dashboard
+├── dashboard.css   # All styles
+└── dashboard.js    # Basic interactivity
